@@ -11,6 +11,9 @@ int main(int argc, char *argv[])
 
     int line_num11;
     int line_num22;
+    int line_num22;
+    int line_num22;int line_num22;
+
 
     char *topo_file = argv[1];
 
